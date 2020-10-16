@@ -13,7 +13,7 @@ const lang = {
   
   // Meta commands
   MetaHelp:/^help$|^\?$/,
-  MetaHint:/^(?:hint|clue)s?$/,
+  MetaHint:/^hints?$/,
   MetaCredits:/^about$|^credits?$/,
   MetaDarkMode:/^(?:dark|dark mode|toggle dark|toggle dark mode)$/,
   MetaWarnings:/^warn(?:ing|ings|)$/,
